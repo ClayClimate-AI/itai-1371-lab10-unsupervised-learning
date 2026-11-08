@@ -1,0 +1,14 @@
+# Local setup
+.venv/
+.claude/
+.DS_Store
+.ipynb_checkpoints/
+
+# Support kit files (not deliverables)
+README.md
+BRIEF.html
+L10_ORIGINAL_unchanged.ipynb
+templates/
+
+# Intermediate export (the PDF is the deliverable)
+L10_notebook_export.html
